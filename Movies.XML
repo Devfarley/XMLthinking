@@ -1,0 +1,69 @@
+<library>
+    <movies>
+        <movie>
+            <title>Warrior</title>
+            <rating>PG-13</rating>
+            <length>2h 20min</length>
+            <actors>
+                <actor>
+                    <name>Joel Ederton</name>
+                    <character>0</character>
+                </actor>
+                <actor>
+                    <name>Tom Hardy</name>
+                    <character>1</character>
+                </actor>
+            </actors>
+        </movie>
+        <movie>
+            <title>A Knight's Tale</title>
+            <rating>PG-13</rating>
+            <length>2h 12min</length>
+            <actors>
+                <actor>
+                    <name>Heath Ledger</name>
+                    <character>2</character>
+                </actor>
+                <actor>
+                    <name>Rufus Sewell</name>
+                    <character>3</character>
+                <actor>
+            </actors>
+        </movie>
+        <movie>
+            <title>The Master of Disguise</title>
+            <rating>PG</rating>
+            <length>1h 20min</length>
+            <actors>
+                <actor>
+                    <name>Dana Carvey</name>
+                    <character>4</character>
+                </actor>
+                <actor>
+                    <name>Jennifer Esposito</name>
+                    <character>5</character>
+                </actor>
+            </actors>
+        </movie>
+    </movies>
+    <characters>
+        <character id="0">
+            <char>Brendan Conlon</char>
+        </character>
+        <character id="1">
+            <char>Tommy Conlon</char>
+        </character>
+        <character id="2">
+            <char>William Thatcher</char>
+        </character>
+        <character id="3">
+            <char>Count Adhemar</char>
+        </character>
+        <character id="4">
+            <char>Pistachis Disgusey</char>
+        </character>
+        <character id="5">
+            <char>Jennifer Baker</char>
+        </character>
+    </characters>
+</library>
